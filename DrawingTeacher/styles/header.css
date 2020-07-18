@@ -1,0 +1,81 @@
+﻿.header {
+    background: url(../images/BG1.png) no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+.logo {
+    padding: 22px;
+    font-size: 26px;
+    font-family: Reef;
+}
+.lessons {
+    margin-top: 407px;
+    margin-bottom: 32px;
+    font-size: 72px;
+    font-family: Raleway-Bold;
+    text-transform: uppercase;
+}
+.to-form, .detali {
+    width: 100%;
+    border: none;
+    font-size: 18pt;
+    font-weight: bold;
+    color: white;
+    font-family: Raleway-Bold;
+    border-radius: 40px;
+    word-wrap: break-word;
+}
+.to-form {
+    background-color: rgb(217, 124, 152);
+    padding: 23px 0;
+    text-transform: uppercase;
+    margin-bottom: 13px;
+    text-align: center; 
+}
+.to-form a, .detali a {
+    text-decoration: none;
+    color: #fff;
+}
+.detali {
+    background-color: rgb(124, 165, 217);
+    padding: 14px 0;
+    margin-bottom: 46px;
+}
+
+    .to-form:focus, .detali:focus {
+        outline: none;
+    }
+button {
+    cursor: pointer;
+}
+button:hover {
+    box-shadow: 0 3px 0 rgba(255, 255, 255, 0.5);
+    top: 3px;
+}
+@font-face {
+    font-family: "Raleway-Bold";
+    src: local("Raleway-Bold"), url(../fonts/Raleway-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Raleway-Light";
+    src: local("Raleway-Light"), url(../fonts/Raleway-Light.ttf);
+}
+
+@font-face {
+    font-family: "Raleway-SemiBold";
+    src: local("Raleway-SemiBold"), url(../fonts/Raleway-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Reef";
+    src: local("Reef"), url(../fonts/Reef.otf);
+}
+@font-face {
+    font-family: "Raleway-Regular";
+    src: local("Raleway-Regular"), url(../fonts/Raleway-Regular.ttf);
+}
+@font-face {
+    font-family: "MyriadPro";
+    src: local("MyriadPro-Light"), url(../fonts/MyriadPro-Light.ttf);
+}

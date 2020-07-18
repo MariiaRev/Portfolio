@@ -1,0 +1,1 @@
+A program with queries to objects collection (data about cars and shops stored in XML) using LINQ.

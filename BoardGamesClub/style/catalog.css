@@ -1,0 +1,44 @@
+.catalog-page .wrapper
+{
+	min-height: 400px;
+}
+.switch img
+{
+	display: none;
+}
+.switch
+{
+	position: relative;
+	width: 40%;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+.switch input
+{
+	position: absolute;
+	bottom: -5%;
+	left: 135px;
+}
+.switch .slide-2
+{
+	left: 160px;
+}
+.switch .slide-3
+{
+	left: 185px;
+}
+.switch .slide-4
+{
+	left: 210px;
+}
+.switch .slide-5
+{
+	left: 235px;
+}
+
+[class^="slide"]:checked + img
+{
+	display: block;
+	width: 75%;
+	height: 70%;
+}

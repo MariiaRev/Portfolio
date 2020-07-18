@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shops>
+	<shop>
+		<shopId>01</shopId>
+		<name>Auto.Ria</name>
+		<telephone>380505005050</telephone>
+	</shop>
+	<shop>
+		<shopId>02</shopId>
+		<name>King Auto</name>
+		<telephone>380909009090</telephone>
+	</shop>
+	<shop>
+		<shopId>03</shopId>
+		<name>AutoUa</name>
+		<telephone>380676706776</telephone>
+	</shop>
+	<shop>
+		<shopId>04</shopId>
+		<name>AutoBasa</name>
+		<telephone>380737033773</telephone>
+	</shop>
+</shops>

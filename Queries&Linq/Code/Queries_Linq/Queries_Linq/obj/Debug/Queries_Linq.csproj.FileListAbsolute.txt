@@ -1,0 +1,7 @@
+D:\ВСЕ МОЕ\ВАЖЛИВЕ\Portfolio\Queries&Linq\Code\Queries_Linq\Queries_Linq\bin\Debug\Queries_Linq.exe.config
+D:\ВСЕ МОЕ\ВАЖЛИВЕ\Portfolio\Queries&Linq\Code\Queries_Linq\Queries_Linq\bin\Debug\Queries_Linq.exe
+D:\ВСЕ МОЕ\ВАЖЛИВЕ\Portfolio\Queries&Linq\Code\Queries_Linq\Queries_Linq\bin\Debug\Queries_Linq.pdb
+D:\ВСЕ МОЕ\ВАЖЛИВЕ\Portfolio\Queries&Linq\Code\Queries_Linq\Queries_Linq\obj\Debug\Queries_Linq.csprojAssemblyReference.cache
+D:\ВСЕ МОЕ\ВАЖЛИВЕ\Portfolio\Queries&Linq\Code\Queries_Linq\Queries_Linq\obj\Debug\Queries_Linq.csproj.CoreCompileInputs.cache
+D:\ВСЕ МОЕ\ВАЖЛИВЕ\Portfolio\Queries&Linq\Code\Queries_Linq\Queries_Linq\obj\Debug\Queries_Linq.exe
+D:\ВСЕ МОЕ\ВАЖЛИВЕ\Portfolio\Queries&Linq\Code\Queries_Linq\Queries_Linq\obj\Debug\Queries_Linq.pdb

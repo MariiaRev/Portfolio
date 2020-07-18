@@ -1,0 +1,70 @@
+﻿.MainForm {
+    background: url(../images/BG8.png) no-repeat;
+    background-size: cover;
+    color: rgb(178, 82, 111);
+    text-align: center;
+}
+
+    .MainForm .MFtitle1, .MainForm .MFtitle2 {
+        font-family: Raleway-Bold;
+        font-size: 36pt;
+    }
+    .MainForm .MFtitle1 {
+        margin-top: 48px;
+        margin-bottom: -15px;
+    }
+    .MainForm .MFtitle2 {
+        margin-bottom: 54px;
+    }
+    .MainForm input[id="MFName"], .MainForm input[id="MFPhone"] {
+        padding: 1% 3%;
+        margin-bottom: 15px;
+        border-radius: 15px;
+        background-color: rgb(234, 142, 170);
+        border: 3px solid #fff;
+        font-size: 18pt;
+        color: #fff;
+        font-family: Raleway-Light;
+    }
+    .MainForm .subscribe {
+        padding: 1% 7%;
+        margin-top: 3%;
+        margin-bottom: 37px;
+        border-radius: 15px;
+        background-color: rgb(178, 82, 111);
+        font-size: 18pt;
+        color: #fff;
+        font-family: Raleway-Bold;
+        border: none;
+        text-transform: uppercase;
+    }
+.MainForm input::-webkit-input-placeholder {
+    color: #fff;
+    font-size: 18pt;
+    font-family: Raleway-Light;
+}
+.MainForm input::-moz-placeholder {
+    color: #fff;
+    font-size: 18pt;
+    font-family: Raleway-Light;
+}
+.MainForm .wait {
+    font-family: Raleway-Bold;
+    font-size: 18pt;
+    margin-bottom: 40px;
+}
+.MainForm .questions {
+    font-family: Raleway-Bold;
+    font-size: 24pt;
+    margin-bottom: 15px;
+}
+.MainForm .PhoneNumber, .MainForm .email {
+    font-family: MyriadPro;
+    font-size: 18pt;
+}
+.MainForm .PhoneNumber {
+    margin-bottom: 20px;
+}
+.MainForm .email {
+    margin-bottom: 57px;
+}

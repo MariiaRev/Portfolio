@@ -1,0 +1,49 @@
+﻿.form {
+    background: url(../images/BGF.png) no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: Raleway-Bold;
+}
+.ftitle {
+    margin-top: 25px;
+    font-size: 36pt;
+    margin-bottom: 31px;
+}
+.form-ins {
+    margin-bottom: 20px;
+}
+.form input[id="SFName"], .form input[id="SFPhone"] {
+    padding: 1% 3%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+    background-color: rgb(147, 174, 239);
+    border: 2px solid #fff;
+    font-size: 16pt;
+    color: #fff;
+    font-family: Raleway-Light;
+}
+.form input::-webkit-input-placeholder {
+    color: #fff;
+    font-size: 16pt;
+    font-family: Raleway-Light;
+}
+.form input::-moz-placeholder {
+    color: #fff;
+    font-size: 16pt;
+    font-family: Raleway-Light;
+}
+input:focus {
+	outline: none;
+}
+.form .sign-up {
+    padding: 2% 15%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+    background-color: rgb(117, 145, 208);
+    font-size: 16pt;
+    color: #fff;
+    font-family: Raleway-Bold;
+    border: none;
+    text-transform: uppercase;
+}

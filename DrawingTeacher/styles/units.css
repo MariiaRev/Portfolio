@@ -1,0 +1,49 @@
+﻿.units {
+    background: url(../images/BG6.png) no-repeat;
+    background-size: cover;
+    color: rgb(141, 110, 85);
+    text-align: center;
+}
+
+    .units .utitle1, .units .utitle2 {
+        font-family: Raleway-Bold;
+        font-size: 48pt;
+        text-transform: uppercase;
+    }
+    .units .utitle1 {
+        margin-top: 68px;
+        margin-bottom: -25px;
+    }
+    .units .utitle2 {
+        margin-bottom: 60px;
+    }
+.units .item {
+    font-family: Raleway-Light;
+    font-size: 28pt;
+    width: 100%;
+}
+.units hr {
+    border: none;
+    background-color: rgb(141, 110, 85);
+    height: 1px;
+}
+.units .last {
+    margin-bottom: 114px;
+}
+.more1, .more2, .more3, .more4, .more5, .more6 {
+    text-align: center;
+    font-size: 16pt;
+    font-family: Raleway-Regular;
+    display: none;
+}
+.more1 img, .more2 img, .more3 img, .more4 img, .more5 img, .more6 img {
+    margin-bottom: 5%;
+    margin-top: 5%;    
+}
+.units .arr {
+    background: none;
+    border: none;
+}
+.units .arr:hover {
+    box-shadow: none;
+}

@@ -1,0 +1,1 @@
+A website for board games club (the task was 'to use only html and css').

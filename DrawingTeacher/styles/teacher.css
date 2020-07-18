@@ -1,0 +1,41 @@
+﻿.teacher {
+    background: url('../images/BG7.png') no-repeat;
+    background-size: cover;
+    color: rgb(104, 140, 84);
+    text-align: center;
+}
+.teacher .teachertitle {
+    font-family: Raleway-Bold;
+    font-size: 48pt;
+    text-transform: uppercase;
+    margin: 54px 0;    
+}
+.teacher .text {
+    margin-top: 10px;
+    line-height: 0.8em;
+    font-size: 16pt;
+    font-family: Raleway-Regular;
+    margin-bottom: 73px;
+}
+.teacher .AboutTeacher {
+    margin-top: 4%;
+    background-color: rgba(231, 251, 221, 0.81);
+    position: relative;
+    z-index: 2;
+    font-size: 18pt;
+    padding-left: 7%;
+    padding-right: 3%;
+    padding-top: 2%;
+    text-align: justify;
+    font-family: Raleway-Regular;
+}
+.teacher .TeacherPhoto {
+    position: relative;
+    z-index: 7;
+    margin-bottom: -17px;
+}
+.teacher .TeacherName {
+    margin-top: 130px;
+    font-size: 26pt;
+    font-family: Raleway-Bold;
+}

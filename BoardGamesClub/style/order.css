@@ -1,0 +1,74 @@
+.order-page section
+{
+	padding: 20px 0;
+	font-size: 20px; 
+}
+.registerForm
+{
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: [labels] 0.5fr [controls] 1fr;
+	width: 40%;
+	grid-auto-flow: row;
+	grid-gap: .8em;
+	box-shadow: 0 0 10px #312782;
+	padding: 1.2em;
+	align-items: center;
+	padding-right: 7%;
+}
+.registerForm label
+{
+	grid: labels;
+	grid-row: auto;	
+	justify-self: end;
+	align-self: center;
+}
+.registerForm input
+{
+	grid: controls;
+	grid-row: auto;
+	height: 1.5em;
+	font-size: 20px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.registerForm .buttons
+{
+	grid-column: 2;
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-template-columns: 2fr 1.2fr;
+	grid-gap: 10px;
+}
+.registerForm .register-btn
+{
+	background-color: #312782;
+	color: #ffffff;
+	box-shadow: 0 0 10px #ffffff;
+	border-radius: 2px;
+	font-size: 20px; 
+	transition: all 0.5s ease;
+	border: none;
+}
+.registerForm .register-btn:hover
+{
+	background-color: #ffffff;
+	color: #312782;
+	box-shadow: 0 0 10px #312782;
+	transition: all 0.5s ease;
+	cursor: pointer;
+}
+.registerForm input:focus, .registerForm input[type="email"]:focus
+{
+	border: 1px solid #ffffff;
+	border-radius: 2px;
+	box-shadow: 0 0 5px #312782;
+	transition: all 0.5s ease;
+	padding: 0 10px;
+}
+.registerForm input:hover
+{
+	border: 1px solid #ffffff;
+	border-radius: 2px;
+	box-shadow: 0 0 5px #312782;
+	transition: all 0.5s ease;
+}

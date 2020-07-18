@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cars>
+	<car>
+		<carId>001</carId>
+		<make>KIA</make>
+		<model>Kia Seltos</model>
+		<issueYear>2015</issueYear>
+		<price>100500</price> 					<!--y $-->
+		<fuelConsumption>10</fuelConsumption> <!--L/100km-->
+		<shopId>01</shopId>
+	</car>
+	<car>
+		<carId>002</carId>
+		<make>KIA</make>
+		<model>Kia Seltos</model>
+		<issueYear>2015</issueYear>
+		<price>100700</price> 					<!--y $-->
+		<fuelConsumption>10</fuelConsumption> <!--L/100km-->
+		<shopId>02</shopId>
+	</car>
+	<car>
+		<carId>003</carId>
+		<make>Renault</make>
+		<model>Renault Triber</model>
+		<issueYear>2017</issueYear>
+		<price>30000</price> 					<!--y $-->
+		<fuelConsumption>12</fuelConsumption> <!--L/100km-->
+		<shopId>02</shopId>
+	</car>
+	<car>
+		<carId>004</carId>
+		<make>Renault</make>
+		<model>Renault Kwid</model>
+		<issueYear>2013</issueYear>
+		<price>31000</price> 					<!--y $-->
+		<fuelConsumption>8</fuelConsumption> <!--L/100km-->
+		<shopId>02</shopId>
+	</car>
+	<car>
+		<carId>005</carId>
+		<make>Hyundai</make>
+		<model>Hyundai Venue</model>
+		<issueYear>2018</issueYear>
+		<price>42000</price> 					<!--y $-->
+		<fuelConsumption>9</fuelConsumption> <!--L/100km-->
+		<shopId>03</shopId>
+	</car>
+	<car>
+		<carId>006</carId>
+		<make>Suzuki</make>
+		<model>Maruti Suzuki Alto 800</model>
+		<issueYear>2017</issueYear>
+		<price>56000</price> 					<!--y $-->
+		<fuelConsumption>10</fuelConsumption> <!--L/100km-->
+		<shopId>03</shopId>
+	</car>
+	<car>
+		<carId>007</carId>
+		<make>Suzuki</make>
+		<model>Maruti Suzuki XL6</model>
+		<issueYear>2019</issueYear>
+		<price>80000</price> 					<!--y $-->
+		<fuelConsumption>12</fuelConsumption> <!--L/100km-->
+		<shopId>04</shopId>
+	</car>
+</cars>
